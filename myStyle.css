@@ -1,1 +1,24 @@
-h2{ color: blue;}
+#one {
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+#two {
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+    border: 5px black solid;
+    box-sizing: border-box;
+}
+
+#three {
+    background-color: green;
+    height: 100px;
+    width: 200px;
+    border-radius: 15%;
+    
+}
